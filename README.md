@@ -15,7 +15,7 @@
 # Project Information
 ## **SNAKE GAME**
 
-![Image](https://github.com/)
+![Image](https://github.com/dpkcbe/STEPIN_SnakeGame/blob/main/snake.jpg)
 
 ## Snake Game in Terminal
 * A mini project in C language using ncurses.
